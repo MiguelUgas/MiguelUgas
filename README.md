@@ -15,10 +15,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [platzi/basico-js](https://github.com/platzi/basico-js)<br>
 2. ⭐ Starred [midudev/pruebas-tecnicas](https://github.com/midudev/pruebas-tecnicas)<br>
-3. ⬆️ Pushed 1 commit(s) to [MiguelUgas/tercerrepo](https://github.com/MiguelUgas/tercerrepo)<br>
-4. 📔 Created new repository [MiguelUgas/tercerrepo](https://github.com/MiguelUgas/tercerrepo)<br>
-5. 📔 Created new repository [MiguelUgas/TercerRepoConCLI](https://github.com/MiguelUgas/TercerRepoConCLI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 5th, 2025, 12:29:59 PM
+Last Updated: Thursday, March 6th, 2025, 1:10:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
