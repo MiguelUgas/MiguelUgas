@@ -14,8 +14,7 @@
 ⚡Actividad reciente.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [platzi/basico-js](https://github.com/platzi/basico-js)<br>
-2. ⭐ Starred [midudev/pruebas-tecnicas](https://github.com/midudev/pruebas-tecnicas)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 6th, 2025, 12:30:11 PM
+Last Updated: Friday, March 7th, 2025, 1:11:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
